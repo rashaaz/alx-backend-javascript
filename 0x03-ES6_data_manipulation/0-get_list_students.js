@@ -1,6 +1,6 @@
 /**
  * Retrieves a list
- * @author returns a list of students with their details
+ * @author Rasha saeed
  * @returns an array of student objects
  */
 export default function getListStudents() {
